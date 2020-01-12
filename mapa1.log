@@ -1,0 +1,134 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  D:\FEI TUKE\Ing\1.rocnik\pg\sample(1)\
+	Python World class constructor completed
+	processing begun of mesh:  curb.003
+		processing begun of Standard material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb.009
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb.007
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb.008
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb.006
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  car
+		processing begun of baked material:  car
+			Internal baking texture, type: TEXTURE, mapped using: UVMap
+		num positions      :  647
+		num normals        :  647
+		num uvs            :  1294
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  972
+	processing begun of mesh:  car_parking1
+		processing begun of Standard material:  Material.002
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  car_parking2
+		registered as also a user of material:  Material.002
+		num positions      :  2436
+		num normals        :  2436
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  14604
+	processing begun of mesh:  curb.001
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb.005
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb.004
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  curb.002
+		registered as also a user of material:  Material.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  ground
+		processing begun of Standard material:  Material.001
+		num positions      :  22
+		num normals        :  22
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp.003
+	processing begun of light (POINT):  Lamp.002
+	processing begun of light (POINT):  Lamp.001
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.3815 secs
